@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: brown;
+}
+.p1{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p2{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.game{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.p2{
+    padding-left: 30px;
+}
+.dice2{
+    padding-left: 70px;
+}
+.winnerdec{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.winner{
+    text-align: center;
+    color: darkred;
+    font-weight: bold;
+    font-size: larger;
+}
